@@ -30,7 +30,7 @@ The general access link to the created page is file:///Users/gunergozdekilic/Des
 When the above link is clicked, there are filters and data at the bottom of the page. Image The information requested below will be given in detail in the 1st screen shot.
 
 ##### Image 1. Filter Search 
-
+<img width="1274" alt="filter search" src="https://user-images.githubusercontent.com/26927158/205183051-a14c73b4-8d0d-4497-bd5f-41d9bb70c277.png">
 
 Looking at the right part of the page, the Filter Search criteria and the output data are on the right.
 
