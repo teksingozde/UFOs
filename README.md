@@ -27,7 +27,7 @@ The situation requested by the customer is to allow the user to filter criteria 
 ## Results
 You can see my web page from this link: https://teksingozde.github.io/UFOs/
 
-Image The information requested below will be given in detail in the 1st screen shot.
+The information requested below will be given in detail in the 1st screen shot.
 
 ##### Image 1. Filter Search 
 <img width="1274" alt="filter search" src="https://user-images.githubusercontent.com/26927158/205183051-a14c73b4-8d0d-4497-bd5f-41d9bb70c277.png">
