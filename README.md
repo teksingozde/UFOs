@@ -16,7 +16,7 @@ The customer wants to create a web page that consists of data related to UFO sig
 ## Creating Web Page 
 The JavaScript files contain the UFO observation data and create a reference using the HTML table element, i.e., the d3 attribute, to be able to observe the data.
 
-The UFO sighting data for the HTML file is formatted with the CSS file in order to be able to carefully pass it to the user, and the layout is provided using Bootstrap.
+The UFO sighting data for the HTML file is formatted with the CSS file in order to be able to carefully pass it to the user.
 
 In general, the way a WEB page is created is traditional for this page as well. At the top, there is a research bar, a title spread over the entire page, a paragraph in the middle, filters in the lower left part, and data in the lower right. Usually, filters are created in HTML format. JavaScript files are called in the HTML section.
 
