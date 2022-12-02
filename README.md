@@ -25,9 +25,8 @@ Looking at the web page in general, light-colored text is used on a dark backgro
 The situation requested by the customer is to allow the user to filter criteria such as city, country, way of being seen, and state along with additional data.
 
 ## Results
-The general access link to the created page is file:///Users/gunergozdekilic/Desktop/UFOs/index.html 
 
-When the above link is clicked, there are filters and data at the bottom of the page. Image The information requested below will be given in detail in the 1st screen shot.
+Image The information requested below will be given in detail in the 1st screen shot.
 
 ##### Image 1. Filter Search 
 <img width="1274" alt="filter search" src="https://user-images.githubusercontent.com/26927158/205183051-a14c73b4-8d0d-4497-bd5f-41d9bb70c277.png">
